@@ -49,7 +49,7 @@ Mark completed tasks by inserting an X within the squared brackets [ ].
 - [ ] Add HTML markup to:
     - [ ] Display a page title indicating 25th March 2021
     - [ ] Display a header indicating the day, month and year (25th March 2021)
-    - [ ] Display an image you like
+    - [ ] Display an image or youtube video you like
     - [ ] Display any journal text you like
 - [ ] Go to the `2021/march/index.html` page 
 - [ ] Add HTML markup to:
